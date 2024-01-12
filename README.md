@@ -1,24 +1,24 @@
-<img style="border-radius: 10px" src="images/logo.png"/> 
+<img src="images/logo.png"/> 
 
-<section style="display: flex">
+<section >
 	<a> 
-        <img style="border-radius: 10px; display: flex; flex: 1" src="images/linkedin.png"/> 
+        <img width="33%" src="images/linkedin.png"/> 
     </a>
 	<a>
-        <img style="border-radius: 10px; display: flex; flex: 1" src="images/portfolio.png"/>
+        <img width="32%" src="images/portfolio.png"/>
     </a>
 	<a>
-        <img style="border-radius: 10px; display: flex; flex: 1" src="images/email.png"/>
+        <img  width="33%" src="images/email.png"/>
     </a>
 </section>
 
 
-### About Me:
+## About Me:
 ---
 
- >“The more I study, the more insatiable do I feel my genius for it to be.”
- ><p style="text-align: right;">- Ada Lovelace</p>
+#### “The more I study, the more insatiable do I feel my genius for it to be.”
 
+#### \- Ada Lovelace
 
 👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
 
@@ -31,10 +31,7 @@
 
 
 
-
-
-
-### About Me:
+## Projects Presentation:
 ---
 <video width="100%" height="260" controls>
   <source src="video.mov" type="video/mp4">
