@@ -1,16 +1,53 @@
-### Hi there 👋
+<style>
+a{
+    width: 40em;
+}
 
-<!--
-**vivi-more/vivi-more** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+img{
+    border-radius: 10px;
+}
 
-Here are some ideas to get you started:
+.flex {
+	display: flex;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.flex-item-1 {
+	flex: 1;
+}
+
+
+</style>
+
+<img class="logo" src="images/logo.png"/> 
+
+<section class="container flex">
+	<a> 
+        <img class="item flex-item-1" src="images/linkedin.png"/> 
+    </a>
+	<a>
+        <img class="item flex-item-1" src="images/portfolio.png"/>
+    </a>
+	<a>
+        <img class="item flex-item-1" src="images/email.png"/>
+    </a>
+</section>
+
+<br/>
+ “The more I study, the more insatiable do I feel my genius for it to be.”
+ <p style="text-align: right;">- Ada Lovelace</p>
+
+
+###About Me:
+---
+
+👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
+
+💻 Software Engineer | 🌐 Currently crafting my portfolio
+
+⌛ 8 years on the programming journey | 🎓 Holding a technical degree and a bachelor's | 💼 3 years in the job market 🚀
+
+
+
+<video width="100%" height="260" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
