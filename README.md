@@ -24,7 +24,14 @@
 
 💻 Software Engineer | 🌐 Currently crafting my portfolio
 
-⌛ 8 years on the programming journey | 🎓 Holding a technical degree and a bachelor's | 💼 +3 years in the job market 🚀
+🎓 Holding a technical degree and a bachelor's 
+
+⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
+
+
+
+
+
 
 
 ### About Me:
