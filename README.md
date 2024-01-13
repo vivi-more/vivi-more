@@ -1,4 +1,4 @@
-<img height="250" width="100%" src="images/logo.png"/> 
+<img height="350" width="100%" src="images/logo.png"/> 
 
 <section>
 	<a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
