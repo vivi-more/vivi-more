@@ -4,13 +4,13 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
-        <img width="120" src="images/linkedin.png"/> 
+        <img width="140" src="images/linkedin.png"/> 
     </a>
 	<a >
-        <img width="120" src="images/portfolio.png"/>
+        <img width="140" src="images/portfolio.png"/>
     </a>
 	<a href="mailto:vmoreira.profissional@gmail.com">
-        <img  width="120" src="images/email.png"/>
+        <img  width="140" src="images/email.png"/>
     </a>
 </p>
 
@@ -27,19 +27,18 @@
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
 
-### Skills Wall
+### SKILLS WALL
 
-#### Frontend
-
+#### FRONTEND
  <img src="images/frontend.png"/>
 
-#### Backend
+#### BACKEND
 
 
-#### DevOps
+#### DEVOPS
 Teest
 
-### Projects Presentation
+### PROJECTS PRESENTATION
 
 [![Watch the video](images/bulding.gif)](...)
 
