@@ -1,6 +1,6 @@
 <img height="70%" width="100%" src="images/logo.png"/> 
 
-<section >
+<section>
 	<a> 
         <img width="32.9%" src="images/linkedin.png"/> 
     </a>
@@ -14,7 +14,6 @@
 
 
 ## About Me:
----
 
 #### “The more I study, the more insatiable do I feel my genius for it to be.”
 
@@ -32,7 +31,6 @@
 
 
 ## Projects Presentation:
----
 <video width="100%" height="260" controls>
   <source src="video.mov" type="video/mp4">
 </video>
