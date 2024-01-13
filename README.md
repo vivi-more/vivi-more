@@ -13,7 +13,7 @@
 </section>
 
 
-#### About Me:
+### About Me:
 
 👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
 
@@ -24,10 +24,19 @@
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
 
-#### Projects Presentation:
+### Projects Presentation:
 <video width="100%" height="260" controls>
   <source src="video.mov" type="video/mp4">
 </video>
+
+#### Skills Wall
+
+##### Frontend
+
+##### Backend
+
+
+##### DevOps
 
 
 #### Phrase of the Year
