@@ -20,7 +20,7 @@
  <img src="images/frontend.png"/>
 
 #### BACKEND
- <img src="images/backend.png"/>
+ <img src="images/backend.png" width="80%"/>
 
 
 
