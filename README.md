@@ -2,13 +2,6 @@
   <img width="80%" src="images/logo.png"/> 
 </p>
 
-<p align="center">
-	<a href="">
-        <img width="200" src="images/portfolio.png"/>
-    </a>
-</p>
-
-
 ### ABOUT ME
 
 
