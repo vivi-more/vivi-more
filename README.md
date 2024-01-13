@@ -1,15 +1,18 @@
-<img height="350" width="100%" src="images/logo.png"/> 
+<img  width="100%" src="images/logo.png">
+
 
 <section>
-	<a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
-        <img width="32.7%" src="images/linkedin.png"/> 
-    </a>
-	<a >
-        <img width="32.7%" src="images/portfolio.png"/>
-    </a>
-	<a href="malito:vmoreira.profissional@gmail.com">
-        <img  width="32.6%" src="images/email.png"/>
-    </a>
+    <center>
+	    <a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
+            <img width="50" src="images/linkedin.png"/> 
+        </a>
+	    <a >
+            <img width="50" src="images/portfolio.png"/>
+        </a>
+	    <a href="mailto:vmoreira.profissional@gmail.com">
+            <img  width="50" src="images/email.png"/>
+        </a>
+    </center>
 </section>
 
 
