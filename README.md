@@ -13,7 +13,7 @@
 
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
-
+🔗 Check out my portfolio: [Portfolio](seu_link_aqui)
 ### SKILLS WALL
 
 #### FRONTEND
