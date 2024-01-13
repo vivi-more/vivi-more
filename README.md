@@ -1,8 +1,7 @@
 <img  width="100%" src="images/logo.png">
 
 
-<section>
-    <center>
+<p align="center">
 	    <a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
             <img width="50" src="images/linkedin.png"/> 
         </a>
@@ -12,8 +11,7 @@
 	    <a href="mailto:vmoreira.profissional@gmail.com">
             <img  width="50" src="images/email.png"/>
         </a>
-    </center>
-</section>
+</p>
 
 
 ### About Me
