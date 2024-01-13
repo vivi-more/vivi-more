@@ -2,8 +2,9 @@
   <img width="80%" src="images/logo.png"/> 
 </p>
 
-### ABOUT ME
+🔗 Check out my portfolio: [Portfolio](seu_link_aqui)
 
+### ABOUT ME
 
 👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
 
@@ -13,23 +14,26 @@
 
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
-🔗 Check out my portfolio: [Portfolio](seu_link_aqui)
-### SKILLS WALL
+
+
+### EXPERTISE IN
 
 #### FRONTEND
  <img src="images/frontend.png"/>
 
 #### BACKEND
- <img src="images/backend.png" width="80%"/>
+ <img src="images/backend.png"/>
 
 
 
 #### DEVOPS
-Teest
+ <img src="images/devops.png"/>
 
+<!-- 
 ### PROJECTS PRESENTATION
 
-[![Watch the video](images/bulding.gif)](...)
+
+[![Watch the video](images/bulding.gif)](...) -->
 
 
 ### Phrase of the Year
