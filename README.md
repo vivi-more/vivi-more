@@ -3,14 +3,8 @@
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
-        <img width="140" src="images/linkedin.png"/> 
-    </a>
-	<a >
-        <img width="140" src="images/portfolio.png"/>
-    </a>
-	<a href="mailto:vmoreira.profissional@gmail.com">
-        <img  width="140" src="images/email.png"/>
+	<a href="">
+        <img width="200" src="images/portfolio.png"/>
     </a>
 </p>
 
