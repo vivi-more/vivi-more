@@ -20,6 +20,8 @@
  <img src="images/frontend.png"/>
 
 #### BACKEND
+ <img src="images/backend.png"/>
+
 
 
 #### DEVOPS
