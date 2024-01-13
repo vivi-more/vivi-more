@@ -1,11 +1,11 @@
-<img src="images/logo.png"/> 
+<img height="70%" width="100%" src="images/logo.png"/> 
 
 <section >
 	<a> 
-        <img width="33%" src="images/linkedin.png"/> 
+        <img width="32.9%" src="images/linkedin.png"/> 
     </a>
 	<a>
-        <img width="32%" src="images/portfolio.png"/>
+        <img width="32.9%" src="images/portfolio.png"/>
     </a>
 	<a>
         <img  width="33%" src="images/email.png"/>
