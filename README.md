@@ -2,22 +2,18 @@
 
 <section>
 	<a> 
-        <img width="32.9%" src="images/linkedin.png"/> 
+        <img width="32.7%" src="images/linkedin.png"/> 
     </a>
 	<a>
-        <img width="32.9%" src="images/portfolio.png"/>
+        <img width="32.7%" src="images/portfolio.png"/>
     </a>
 	<a>
-        <img  width="33%" src="images/email.png"/>
+        <img  width="32.6%" src="images/email.png"/>
     </a>
 </section>
 
 
-## About Me:
-
-#### “The more I study, the more insatiable do I feel my genius for it to be.”
-
-#### \- Ada Lovelace
+#### About Me:
 
 👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
 
@@ -28,9 +24,14 @@
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
 
-
-
-## Projects Presentation:
+#### Projects Presentation:
 <video width="100%" height="260" controls>
   <source src="video.mov" type="video/mp4">
 </video>
+
+
+#### Phrase of the Year
+
+“The more I study, the more insatiable do I feel my genius for it to be.”
+
+\- Ada Lovelace
