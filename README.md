@@ -1,19 +1,19 @@
-<img height="70%" width="100%" src="images/logo.png"/> 
+<img height="250" width="100%" src="images/logo.png"/> 
 
 <section>
-	<a> 
+	<a href="https://www.linkedin.com/in/vitoria-moreira-652a671ab/"> 
         <img width="32.7%" src="images/linkedin.png"/> 
     </a>
-	<a>
+	<a >
         <img width="32.7%" src="images/portfolio.png"/>
     </a>
-	<a>
+	<a href="malito:vmoreira.profissional@gmail.com">
         <img  width="32.6%" src="images/email.png"/>
     </a>
 </section>
 
 
-### About Me:
+### About Me
 
 👋 Hi there! I'm Vitoria Moreira, a passionate coder from Brazil. 🇧🇷
 
@@ -29,17 +29,17 @@
   <source src="video.mov" type="video/mp4">
 </video>
 
-#### Skills Wall
+### Skills Wall
 
-##### Frontend
+#### Frontend
 
-##### Backend
-
-
-##### DevOps
+#### Backend
 
 
-#### Phrase of the Year
+#### DevOps
+
+
+### Phrase of the Year
 
 “The more I study, the more insatiable do I feel my genius for it to be.”
 
