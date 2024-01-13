@@ -30,14 +30,17 @@
 
 #### Frontend
 
+ <img src="images/frontend.png"/>
+
 #### Backend
 
 
 #### DevOps
-
+Teest
 
 ### Projects Presentation
-[![Watch the video](image/bulding.gif)](https://youtu.be/vt5fpE0bzSY)
+
+[![Watch the video](images/bulding.gif)](...)
 
 
 ### Phrase of the Year
