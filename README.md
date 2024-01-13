@@ -26,11 +26,6 @@
 ⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
 
 
-### Projects Presentation:
-<video width="100%" height="260" controls>
-  <source src="video.mov" type="video/mp4">
-</video>
-
 ### Skills Wall
 
 #### Frontend
@@ -39,6 +34,10 @@
 
 
 #### DevOps
+
+
+### Projects Presentation
+[![Watch the video](image/bulding.gif)](https://youtu.be/vt5fpE0bzSY)
 
 
 ### Phrase of the Year
