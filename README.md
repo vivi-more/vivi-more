@@ -2,7 +2,7 @@
   <img width="80%" src="images/logo.png"/> 
 </p>
 
-🔗 Check out my portfolio: [Portfolio](seu_link_aqui)
+<!--🔗 Check out my portfolio: [Portfolio](seu_link_aqui)-->
 
 ### ABOUT ME
 
