@@ -38,6 +38,7 @@ As a leader in one of Dell Technologies' diverse frontend teams, I've spearheade
 
 🔗 Come take a look: [Lead Dell]("./projects/leaddell/README.md)
 
+<br>
 
 #### DTAX BRASIL
 
@@ -49,6 +50,8 @@ In Dtax Brasil's dynamic team, I've contributed with the project in Web, Mobile,
 
 🔗 Come take a look: [Dtax Brasil ](./projects/dtac/README.md)
 
+<br>
+
 #### WE CARE.FITNESS
 
 <img align="left" width="280" height="160" src="./images/wecarefitness.png">
@@ -59,6 +62,7 @@ In the dynamic team at We Care.Fitness, I've contributed to projects in Web, Mob
 
 🔗 Come take a look: [We Care.Fitness](./projects/wecarefitness/README.md)
 
+<br>
 
 #### ITARGET
 
