@@ -48,7 +48,7 @@ As a leader in one of Dell Technologies' diverse frontend teams, I've spearheade
 
 In Dtax Brasil's dynamic team, I've contributed with the project in Web, Mobile, and Cloud for including tax declaration solutions. 🌐💻📊
 
-🔗 Come take a look: [Dtax Brasil ]([./projects/dtax/README.md](https://github.com/vivi-more/vivi-more/tree/main/projects/leaddell/README.md))
+🔗 Come take a look: [Dtax Brasil ](https://github.com/vivi-more/vivi-more/tree/main/projects/dtax/README.md)
 
 <br>
 
