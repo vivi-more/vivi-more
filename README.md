@@ -36,7 +36,7 @@
 
 As a leader in one of Dell Technologies' diverse frontend teams, I've spearheaded the development of internal projects. 💻
 
-🔗 Come take a look: [Lead Dell]("./projects/leaddell/README.md)
+🔗 Come take a look: [Lead Dell](https://github.com/vivi-more/vivi-more/tree/main/projects/leaddell/README.md)
 
 <br>
 
@@ -48,7 +48,7 @@ As a leader in one of Dell Technologies' diverse frontend teams, I've spearheade
 
 In Dtax Brasil's dynamic team, I've contributed with the project in Web, Mobile, and Cloud for including tax declaration solutions. 🌐💻📊
 
-🔗 Come take a look: [Dtax Brasil ](./projects/dtac/README.md)
+🔗 Come take a look: [Dtax Brasil ]([./projects/dtax/README.md](https://github.com/vivi-more/vivi-more/tree/main/projects/leaddell/README.md))
 
 <br>
 
@@ -60,7 +60,7 @@ In Dtax Brasil's dynamic team, I've contributed with the project in Web, Mobile,
 
 In the dynamic team at We Care.Fitness, I've contributed to projects in Web, Mobile, and Cloud, with a focus on digital fitness solutions. 🌐💻📈
 
-🔗 Come take a look: [We Care.Fitness](./projects/wecarefitness/README.md)
+🔗 Come take a look: [We Care.Fitness](https://github.com/vivi-more/vivi-more/tree/main/projects/wecarefitness/README.md)
 
 <br>
 <br>
@@ -75,4 +75,4 @@ In the dynamic team at We Care.Fitness, I've contributed to projects in Web, Mob
 During my internship at Itarget Tecnologia, I learned a great deal while working on projects specializing in HR solutions. 🌐👩‍💼
 
 
-🔗 Come take a look: [Itarget Tecnologia](./projects/itargettecnologia/README.md)
+🔗 Come take a look: [Itarget Tecnologia](https://github.com/vivi-more/vivi-more/tree/main/projects/itargettecnologia/README.md)
