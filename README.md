@@ -16,15 +16,15 @@
 
 #### FRONTEND
 
-  <img   width="630" height="130" src="images/frontend.png"/>
+  <img src="images/frontend.png"/>
 
 #### BACKEND
 
-  <img   width="630" height="60" src="images/backend.png"/>
+  <img src="images/backend.png"/>
 
 #### DEVOPS
 
-  <img   width="630" height="60" src="images/devops.png"/>
+  <img src="images/devops.png"/>
 
 ## Projects
 
