@@ -64,7 +64,7 @@ In the dynamic team at We Care.Fitness, I've contributed to projects in Web, Mob
 
 <br>
 
-#### ITARGET
+#### ITARGET TECNOLOGIA
 
 ###### Itarget Tecnologia Projects Showcase 🎯💻
 
