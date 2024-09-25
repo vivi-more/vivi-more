@@ -10,7 +10,7 @@
 
 🎓 Holding a technical degree and a bachelor's
 
-⌛ 8 years on the programming journey | 💼 Over 3 years in the job market 🚀
+💼 Over 4 years in the job market 🚀
 
 ## Expertise in
 
